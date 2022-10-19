@@ -1,4 +1,4 @@
-<h1><img src="./assets/readme/wave.gif" width = 50px>Hey there! 
+<h1>Hey there! <img src="./assets/readme/wave.gif" width = 50px></h1>
 
 <!--
 
