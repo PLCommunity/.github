@@ -5,6 +5,7 @@
 
 <h2>About Us</h2>
 <img width="55%" align="right" alt="Github" src="./assets/readme/git-header.svg"/>
+
 - ✍️ We're working on reviving the community's most promising projects, like [🚀 javaboost](https://github.com/PLCommunity/javaboost), a modpack to improve your JE experience; and [📕 wiki](https://github.com/PLCommunity/plcommunity.github.io), a ("post"-)discontinued PojavLauncher wiki project
 - ℹ️This team exists because of you, and without you, PojavLauncher won't also exist. We're grateful that we granted your wish to play Java Edition in your phone!
 <!--
