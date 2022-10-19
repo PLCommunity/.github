@@ -15,6 +15,7 @@ Simple pull requests, like grammar fixes, small code changes, or directory refac
 - We do not need you to hop into the "deepest" rabbit hole of coding.
 
 <h2>Resources</h2>
+
 - The official [👥 PojavLauncherTeam](https://github.com/PojavLauncherTeam) organization. Drop a follow on them!
 - [⛏️ PojavOptimize](https://github.com/PojavLauncherTeam/PojavOptimize) the source fork of javaboost
 - Original source tree of [PojavLauncher's Wiki](https://github.com/PojavLauncherTeam/pojavlauncherteam.github.io)
