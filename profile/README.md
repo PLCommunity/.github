@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1><img src="./assets/readme/wave.gif" width = 50px>Hey there! 
 
 <!--
 
